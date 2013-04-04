@@ -1,4 +1,4 @@
-Setting up Your Class2Go Dev Environment
+Setting up Your Class2Go Dev Environmen
 ========================================
 
 These instructions should help you get started setting up a dev
